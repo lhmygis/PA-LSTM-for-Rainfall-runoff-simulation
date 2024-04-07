@@ -1,0 +1,1 @@
+The daily Snow Water Equivalent data for evaluating S_snow output by PA-LSTM can be downloaded from https://doi.org/10.5067/0GGPB220EX6A (Zeng et al., 2018).
